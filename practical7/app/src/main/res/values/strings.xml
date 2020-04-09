@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practical7</string>
+    <string-array name="spinner">
+        <item>None</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
